@@ -11,8 +11,8 @@ pipeline{
                     
             steps{
             gitCheckout(
-                branch: "master",
-                url: "https://github.com/uday898989/newproject.git"
+                branch: "main",
+                url: "https://github.com/uday898989/new_ytut.git"
             )
             }
         }
